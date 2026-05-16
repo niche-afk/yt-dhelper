@@ -26,7 +26,7 @@ fi
 
 echo ""
 
-Prompt for URL
+#Prompt for URL
 read -p "Enter source video/playlist URL: " source_URL
 echo ""
 
